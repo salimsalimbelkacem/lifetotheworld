@@ -1,0 +1,12 @@
+ListMenu "MainMenu" {
+	Selector "FINGER", 0, 50
+	Size 1000, 1000
+	Linespacing 100
+	Position 0, 400
+	
+	StaticPatch 400, 100, "LTTW"
+	patchItem "NEWGAME", "n", "PlayerclassMenu"
+	patchItem "LOAD", "l", "LoadGameMenu"
+	patchItem "SAVE", "s", "SaveGameMenu"
+	patchItem "OPTION", "o", "OptionsMenu"
+}
