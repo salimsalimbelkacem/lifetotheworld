@@ -1,0 +1,41 @@
+texture HAND1
+	pic 2 tics 10
+	pic 1 tics 10
+	pic 2 tics 5
+
+	pic 1 tics 15
+	pic 2 tics 5
+
+	pic 1 tics 15
+	pic 2 tics 10
+
+	pic 1 tics 20
+
+	pic 2 tics 5
+	pic 1 tics 5
+	pic 2 tics 10
+	pic 1 tics 5
+
+	pic 2 tics 15
+	pic 1 tics 5
+	pic 2 tics 5
+	pic 1 tics 10
+
+	pic 2 tics 15
+	pic 1 tics 10
+	pic 2 tics 5
+	pic 1 tics 10
+	pic 2 tics 5
+
+	pic 1 tics 15
+	pic 2 tics 10
+	pic 1 tics 5
+	pic 2 tics 10
+
+	pic 1 tics 15
+	pic 2 tics 5
+
+	pic 1 tics 15
+	pic 2 tics 10
+	pic 1 tics 5
+	pic 2 tics 5

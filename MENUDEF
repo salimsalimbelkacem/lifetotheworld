@@ -1,5 +1,5 @@
 ListMenu "MainMenu" {
-	Selector "FINGER", 0, 50
+	Selector "HAND1", -290, -10
 	Size 1000, 1000
 	Linespacing 100
 	Position 0, 400
