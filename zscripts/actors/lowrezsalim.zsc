@@ -1,0 +1,15 @@
+class LowRezSalim : Actor {
+	Default {
+	    Monster;
+		Health 2000;
+		Radius 16;
+		Height 50;
+		YScale 0.5;
+		+FLOORCLIP
+	}
+	States {
+		Spawn:
+			SALI A -1;
+			Stop;
+	}
+}

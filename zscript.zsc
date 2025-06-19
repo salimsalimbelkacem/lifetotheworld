@@ -1,3 +1,3 @@
 version "4.14.2"
 
-#include "./scripts/actors/actors.txt"
+#include "./zscripts/actors/actors.zsc"
