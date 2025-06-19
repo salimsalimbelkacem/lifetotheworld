@@ -1,5 +1,7 @@
-# LIFE TO THE WORLD
+![logo maybe](./graphics/mainmenu/LTTW)
 nothing burger for the moment :P
+
+yes the logo is just `free serif` idc
 
 ## how to run?
 ### from pk3
