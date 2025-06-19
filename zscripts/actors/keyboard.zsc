@@ -1,7 +1,7 @@
 class keyboard : Actor {
 	Default {
 		Radius 16;
-		Height 5;
+		Height 10;
 		Mass 1000;
 		Scale 10;
 		+FLOORCLIP
