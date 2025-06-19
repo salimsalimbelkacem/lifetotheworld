@@ -2,4 +2,4 @@
 #include "./lowrezsalim.zsc"
 #include "./keyboard.zsc"
 #include "./tele.zsc"
-//#include "./computer.zsc"
+#include "./computer.zsc"
