@@ -118,4 +118,13 @@ Graphic "EYE4", 280, 131
 	Patch "EYE4", 0, 0
 }
 
+// keyboard
+sprite M000A0, 1, 1 {
+}
+// television
+sprite M001A0, 1, 1 {
+}
+// computer
+sprite M002A0, 1, 1 {
+}
 // End of texture definitions

@@ -1,0 +1,15 @@
+class television : Actor {
+	Default {
+		Radius 16;
+		Height 50;
+		Mass 1000;
+		Scale 25;
+		+FLOORCLIP
+		+NOBLOOD
+	}
+	States {
+		Spawn:
+			M001 A -1;
+			Stop;
+	}
+}

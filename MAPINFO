@@ -4,6 +4,9 @@ gameinfo{
 DoomEdNums {
 	90 = "Salim"
 	91 = "LowRezSalim"
+	92 = "keyboard"
+	93 = "television"
+	94 = "computer"
 }
 
 clearepisodes

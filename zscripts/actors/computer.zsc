@@ -1,0 +1,15 @@
+class computer : Actor {
+	Default {
+		Radius 16;
+		Height 5;
+		Mass 1000;
+		Scale 10;
+		+FLOORCLIP
+		+NOBLOOD
+	}
+	States {
+		Spawn:
+			M002 A -1;
+			Stop;
+	}
+}

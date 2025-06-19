@@ -1,0 +1,22 @@
+model keyboard {
+	Path "/models/"
+	model 0 "keyboard.obj"
+	skin 0 "/patches/keyboard.png"
+	
+	FrameIndex M000 A 0 0
+}
+model television {
+	Path "/models/"
+	model 0 "TELEVISION.obj"
+	skin 0 "/patches/television.png"
+	
+	FrameIndex M001 A 0 0
+}
+
+model computer {
+	Path "/models/"
+	model 0 "computer.obj"
+	skin 0 "/patches/computer.png"
+	
+	FrameIndex M002 A 0 0
+}
