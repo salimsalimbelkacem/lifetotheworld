@@ -12,7 +12,7 @@ model television {
 	
 	FrameIndex M001 A 0 0
 }
-
+/*
 model computer {
 	Path "/models/"
 	model 0 "computer.obj"
@@ -20,3 +20,4 @@ model computer {
 	
 	FrameIndex M002 A 0 0
 }
+*/
