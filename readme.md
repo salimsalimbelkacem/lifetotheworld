@@ -1,4 +1,7 @@
-# ![logo maybe](./graphics/mainmenu/LTTW)
+# i abandoned this
+didn't know what to do, i got bored sorry :(
+
+#![logo maybe](./graphics/mainmenu/LTTW)
 nothing burger for the moment :P
 
 yes the logo is just `free serif` idc
